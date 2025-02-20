@@ -33,8 +33,6 @@ export default function Home() {
     const fromBottomTransitionElements = document.querySelectorAll('.from-bottom-transition');
     fromBottomTransitionElements.forEach((el) => fromBottomTransitionObserver.observe(el));
 
-    const currentYear = new Date().getFullYear();
-    // document.getElementById('current-year').textContent = currentYear;
   }, []);
 
   return (
