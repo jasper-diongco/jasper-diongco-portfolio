@@ -8,7 +8,7 @@ export default function AboutSection() {
         <div className="flex content-center justify-center flex-col mt-12 lg:mt-0">
           <h2 className="text-4xl sm:text-5xl text-center uppercase">About Me</h2>
           <p className="text-center sm:text-left text-xl mt-4 sm:mt-5 md:mt-8">
-          Hi I'm Jasper Diongco. I help businesses to maximize their growth through professionally developed web applications. Based in the Philippines, I have 4 years of solid experience in web and mobile app development. With a focus on developing productivity apps, e-commerce websites, and tailored applications for HR, accounting, and inventory management, I deliver fast and secure applications, prioritizing intuitive user interfaces and user-centric solutions. I am passionate about leadership and driven to make a positive impact. Let's connect and drive success together.
+            Hi, I’m Jasper Diongco, a full-stack software developer passionate about empowering businesses through technology. I help businesses boost efficiency and sales with professionally developed web applications. Since 2021, I've been building innovative web and mobile solutions that solve real-world challenges. I specialize in crafting custom business management solutions tailored to client needs, built with Laravel, Node, and React based stacks. As a leader, I foster a collaborative environment within my team, driving innovation and impactful results on every project. Let’s connect and explore how we can elevate your business with tailored web solutions.
           </p>
         </div>
       </div>
