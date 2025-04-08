@@ -10,21 +10,22 @@ export default function ServicesSection() {
             <img className="w-20" src="./images/code.png" alt="Web Development Service" />
             <h2 className="card-service-title">Web Development</h2>
             <p className="card-service-content">
-              Maximize your business growth with professionally developed web application. Prioritizing intuitive user interfaces and user-centric solutions for customized applications for HR, accounting, inventory systems, e-commerce, and more.
+             Maximize your business growth with professionally developed Web Application.
             </p>
           </div>
           <div className="card-service from-bottom-transition duration-700 delay-200">
-            <img className="w-20 -mt-1" src="./images/smartphone.png" alt="Mobile Development Service" />
+            <img className="w-20" src="./images/smartphone.png" alt="Mobile Development Service" />
             <h2 className="card-service-title">Mobile App Development</h2>
             <p className="card-service-content">
-              Let's turn your app idea into reality. Get a fully functional app with an intuitive user interface design. My expertise includes creating productivity tools, e-commerce solutions, food delivery apps, and applications with barcode scanning functionality. Developed for cross-platform, ready for both iOS and Android.
+              Turn your idea into reality.
+            Developed for cross-platform, ready for both iOS and Android.
             </p>
           </div>
           <div className="card-service from-bottom-transition duration-700 delay-200">
-            <img className="w-20 -mt-3" src="./images/web-design.png" alt="Mobile Development Service" />
-            <h2 className="card-service-title">Wordpress Design & Development</h2>
+            <img className="w-20" src="./images/web-design.png" alt="Mobile Development Service" />
+            <h2 className="card-service-title">Landing Page & WordPress Development</h2>
             <p className="card-service-content">
-              Get a beautifully designed website that attracts more customers to your business. Designed and tailored to meet your specific needs, with a focus on responsive design. This ensures your website looks great and functions perfectly on all screen sizes, including desktops, laptops, tablets, and mobile devices.
+              Build a complete website that attracts more customers to your business.
             </p>
           </div>
         </div>
